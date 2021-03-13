@@ -6,7 +6,7 @@
  * Time: 3:19 PM
  */
 
-namespace Jcsofts\LaravelEthereum\Lib;
+namespace Mylesdc\LaravelEthereum\Lib;
 
 
 class EthereumTransaction

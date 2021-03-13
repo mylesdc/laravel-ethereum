@@ -6,7 +6,7 @@
  * Time: 3:15 PM
  */
 
-namespace Jcsofts\LaravelEthereum\Lib;
+namespace Mylesdc\LaravelEthereum\Lib;
 
 
 class RPCException extends \Exception

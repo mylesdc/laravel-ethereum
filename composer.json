@@ -22,16 +22,16 @@
     },
     "autoload": {
         "psr-4": {
-            "Jcsofts\\LaravelEthereum\\": "src/"
+            "Mylesdc\\LaravelEthereum\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Jcsofts\\LaravelEthereum\\EthereumServiceProvider"
+                "Mylesdc\\LaravelEthereum\\EthereumServiceProvider"
             ],
             "aliases": {
-                "Ethereum": "Jcsofts\\LaravelEthereum\\Facade\\Ethereum"
+                "Ethereum": "Mylesdc\\LaravelEthereum\\Facade\\Ethereum"
             }
         }
     }
