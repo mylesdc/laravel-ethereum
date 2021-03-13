@@ -21,9 +21,10 @@
         "phpunit/phpunit": "~5.7"
     },
     "autoload": {
-      "classmap": [
-          "src/"
-      ]
+        "psr-4": {
+            "App\\": "app/",
+            "Mylesdc\\LaravelEthereum\\": "src/"
+        }
     },
     "extra": {
         "laravel": {
