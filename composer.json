@@ -1,5 +1,5 @@
 {
-    "name": "jcsofts/laravel-ethereum",
+    "name": "mylesdc/laravel-ethereum",
     "description": "the ethereum json rpc api",
     "type": "library",
     "license": "MIT",
